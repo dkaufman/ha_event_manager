@@ -152,4 +152,4 @@ class EventManager
 end
 
 manager = EventManager.new("event_attendees.csv")
-manager.state_stats
+manager.create_form_letters
